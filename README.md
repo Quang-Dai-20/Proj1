@@ -1,2 +1,2 @@
-# Proj1
-The repo is for my Coursera DA assessment proj.
+# Purpose
+The repo is for my Coursera DA homework and assignments.
